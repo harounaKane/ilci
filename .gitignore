@@ -1,0 +1,5 @@
+#fichier nommé 
+code_secret
+
+#tous les fichier avec l'extension : .jjj
+*.jjj
