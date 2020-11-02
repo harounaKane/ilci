@@ -1,4 +1,18 @@
-header, main, section, footer{
-     border: 1px solid red;
-     margin: 25px 5px;
+.container{
+     max-width: 750px;
+     margin: 0 auto;
+}
+
+header{
+     background-color: #b8cb21;
+}
+
+nav{
+     float: right;
+     margin: 50px;;
+     text-transform: uppercase;
+}
+
+nav a{
+     padding: 0 15px;
 }
